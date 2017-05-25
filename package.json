@@ -1,0 +1,12 @@
+{
+  "name": "rethink-insert",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Fahad Hossain <8bit.demoncoder@gmail.com> (http://fahad.gq/)",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "rethinkdb": "^2.3.3"
+  }
+}

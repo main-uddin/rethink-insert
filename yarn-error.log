@@ -1,0 +1,34 @@
+Arguments: 
+  /usr/local/n/bin/node /usr/local/bin/yarn add express rethinkdb body-parser
+
+PATH: 
+  /home/mainuddin/.bin:/home/mainuddin/.luarocks/bin:/home/mainuddin/.local/bin:/home/mainuddin/.config/composer/vendor/bin:/home/mainuddin/.gem/ruby/*/bin:/ldata/android-studio/bin:/tools:/platform-tools:/home/mainuddin/.local/bin:/home/mainuddin/bin:/home/mainuddin/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/go/bin:/home/mainuddin/go/bin:node_modules/.bin:/home/mainuddin/.config/composer/vendor/bin:/home/mainuddin/.gem/ruby/2.3.0/bin:/usr/lib/go/bin:/home/mainuddin/go/bin:node_modules/.bin:/home/mainuddin/.config/composer/vendor/bin:/home/mainuddin/.gem/ruby/2.3.0/bin:/usr/local/n/bin
+
+Yarn version: 
+  0.23.4
+
+Node version: 
+  7.10.0
+
+Platform: 
+  linux x64
+
+npm manifest: 
+  {
+    "name": "rethink-insert",
+    "version": "1.0.0",
+    "main": "app.js",
+    "author": "Fahad Hossain <8bit.demoncoder@gmail.com> (http://fahad.gq/)",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND registry.yarnpkg.com registry.yarnpkg.com:443
+      at errnoException (dns.js:28:10)
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:73:26)
